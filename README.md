@@ -16,3 +16,4 @@ We propose a fund contract storing the following information in it's state which
 
 Other API requests will grant access to retrieve details of the currently owned assets from their respective marketplace.
 
+emailId: gautamgsabhahit@gmail.com
